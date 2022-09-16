@@ -34,7 +34,7 @@
   "homepage":"http://ayan0010.github.io/new_todo_dapp",
    "scripts": {
      "predeploy": "npm run build",
-+   "deploy": "gh-pages -d build",
+   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
